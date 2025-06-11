@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
-import axios from "axios"; //axios makes a GET request to the openweathermap.org url
+import axios from "axios"; 
 import WeatherCard from "./components/WeatherCard";
 import InputComponent from "./components/InputComponent";
 
